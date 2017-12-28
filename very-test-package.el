@@ -1,2 +1,2 @@
-(defvar very-test-package 0.1)
+(defvar very-test-package 0.2)
 (provide 'very-test-package)
